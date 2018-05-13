@@ -1,0 +1,5 @@
+let config = {}
+config.bucket       ="bucket";
+config.key          ="1.html"
+
+module.exports = config;

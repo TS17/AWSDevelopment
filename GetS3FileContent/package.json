@@ -1,0 +1,9 @@
+{
+  "name": "GetS3FileContent",
+  "version": "0.0.1",
+  "description": "Get S3 File Content based on 'AWSCredentials', read bucket and key from 'config' File",
+  "scripts": {"start": "node GetS3FileContent.js"},
+  "dependencies": {
+    "aws-sdk":"2.238.1"
+  }
+}
